@@ -42,13 +42,5 @@ Super CDN ( Premium Quality , expensive )
 
 
 Delta Offshore Server |  Unmetered c
-DC Location : Germany , Amsterdam , Sofia , Spain , Italy , Russia , USA
-11Gbps  699 € / month , 40CPU , 192G RAM, 4xIPs
-9Gbps   657 € / month ,  40CPU , 128G RAM, 4xIPs
-7Gbps   505 € / month ,  40CPU , 128G RAM, 4xIPs
-6Gbps   429 € / month ,  40CPU , 128G RAM, 4xIPs
-3Gbps   322 € / month  ,  40CPU , 128G RAM, 4xIPs
+- DC Location : Germany , Amsterdam , Sofia , Spain , Italy , Russia , USA
 
-6Gbps   314 € / month , 12CPU , 64G RAM, 4xIPs
-4Gbps   248 € / month , 12CPU , 64G RAM, 4xIPs
-2Gbps   175 € / month , 12CPU , 64G RAM, 4xIPs
